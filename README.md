@@ -1,4 +1,4 @@
-# Introduction to Algorithms and Data Structures — Flight Management System
+# IADS — Flight Management System
 
 A **flight management system** written in C, built for the **Introdução aos Algoritmos e Estruturas de Dados** (Introduction to Algorithms and Data Structures / IAED) course at **Instituto Superior Técnico (IST)**, University of Lisbon, 2021/22.
 
